@@ -15,14 +15,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--Intro start-->
 
 - 🌱 Actualmente estoy aprendiendo a **desarrollar sistemas web.**
@@ -98,7 +90,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ticlla-choque-alex-4b4059291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"   
   alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/dedasema/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" 
+  <a href="http://instagram.com/alexinho_tc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" 
   alt="Instagram"></a>
   <a href="https://www.facebook.com/alex.ticllachoque.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" 
   alt="Facebook"></a>
